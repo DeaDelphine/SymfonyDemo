@@ -6,7 +6,7 @@ to develop applications following the [Symfony Best Practices][1].
 
 You can also learn about these practices in [the official Symfony Book][5].
 
-Requirements
+Requirements merci 
 ------------
 
   * PHP 8.2.0 or higher;
